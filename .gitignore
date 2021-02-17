@@ -8,7 +8,9 @@
 
 .project
 .classpath
-factoryConfiguration.json
+.factorypath
+.settings
+# factoryConfiguration.json
 
 ### Java ###
 # Compiled class file
